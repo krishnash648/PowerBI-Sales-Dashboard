@@ -2,6 +2,9 @@
 
 This project presents an interactive sales dashboard built using Power BI.
 
+## Dashboard Preview
+![Dashboard](dashboard.png)
+
 ## Features
 
 * KPI tracking (Total Sales, Orders, Customers)
